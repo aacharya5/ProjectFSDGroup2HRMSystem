@@ -1,0 +1,59 @@
+.topSection {
+    position: relative;
+}
+.homeImage {
+    width: 100%;
+    height: 450px;
+}
+.homelogo {
+    height: 160px;
+    width: 160px;
+    border-radius: 60%;
+    font-size: 45px;
+    background-color: white;
+    border: 1px solid tomato;
+    margin: auto;
+    line-height: 100px;
+}
+.branding {
+    position: absolute;
+    width: 100%;
+    top: 80px;
+    text-align: center;
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.searchOptions {
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    top: 380px;
+    text-align: center;
+}
+
+.locationBox {
+    height: 45px;
+    margin-right: 20px;
+    width: 160px;
+}
+
+.searchTextBox {
+    height: 45px;
+    width: 450px;
+}
+p{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20%;
+    border-width: 15px;
+    border-color: greenyellow;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.header{
+    font-weight: bold;
+    font-size: 60px;
+    color: gold;
+}
