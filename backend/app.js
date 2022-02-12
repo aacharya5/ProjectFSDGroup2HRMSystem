@@ -24,7 +24,7 @@ app.use('/', routes);
 //connect to MongoDB
 
 mongoose.connect (
-    'mongodb+srv://root:India219@cluster0.xnlfb.mongodb.net/hrm?retryWrites=true&w=majority',
+    'mongodb+srv://root:india123123@cluster0.xnlfb.mongodb.net/hrm?retryWrites=true&w=majority',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
